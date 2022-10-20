@@ -1,3 +1,5 @@
+# Notice: this page is currently under construction. It's bland now, but bear with me as I renovate it
+
 # Hey!
 ## I'm Carnoraptor - I love all things computer science, but my main passions lie in game development and theory
 
