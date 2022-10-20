@@ -1,5 +1,5 @@
-#Hey
-##I'm Carnoraptor - I love all things computer science, but my main passions lie in game development and theory
+# Hey!
+## I'm Carnoraptor - I love all things computer science, but my main passions lie in game development and theory
 
 I've yet to publish much on here, but my Itch.io page (https://carnoraptor.itch.io/) features two games I've made for game jams! Both are fairly amateurish (neither was made with much experience - I like Deconstruction but it's code is horrendous and Armchair Detective is... not a good game), but I've yet to add more to the page due to my shift in focus. I feel like as I come up on my third year of Unity experience, and my first year of time I've been fully working on it (I took an extended break from early 2021 to late 2022, so I still consider myself to have less than a year of experience), I need to focus on releasing a full game which I'm truly proud of. That's why I'm currently working on a project I'm calling STANAG (named so after the NATO-grade magazines - ironic, considering reloading isn't part of the game LMAO), a roguelike which has become something I'm extremely excited to create. It's already become the best project I've made (and by a large margin, too), and I look forward to seeing what it evolves into in the future.
 
